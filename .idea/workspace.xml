@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5596ece9-40aa-4c08-a917-fff489677926" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/config/options/actionSummary.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/config/options/actionSummary.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/config/options/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/config/options/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/config/options/recentProjects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/config/options/recentProjects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/config/options/window.state.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/config/options/window.state.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/config/port" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/config/workspace/1pmoSfcrNNKfmKdDTSRL4TUOZSY.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/config/workspace/1pmoSfcrNNKfmKdDTSRL4TUOZSY.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/.appinfo" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/.appinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/.pid" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/LocalHistory/changes.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/LocalHistory/changes.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/LocalHistory/changes.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/LocalHistory/changes.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/attrib.dat.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/attrib.dat.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/attrib.dat.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/attrib.dat.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/content.dat.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/content.dat.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/content.dat.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/content.dat.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/records.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/records.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/records.dat.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/records.dat.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/compile-server/algorithmdesign_2caa33c3/ustamp" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/compile-server/algorithmdesign_2caa33c3/ustamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/frameworks/detection/AlgorithmDesign.12b8b267/files" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/frameworks/detection/AlgorithmDesign.12b8b267/files" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog.json.ETag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog1.json.ETag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog2.json.ETag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog3.json.ETag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog4.json.ETag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog5.json.ETag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog7.json.ETag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/httpFileSystem/catalog8.json.ETag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/icons-v2.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/icons-v2.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.project" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.project.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.project.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.storage_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex_inputs" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex_inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex_inputs.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex_inputs.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex_inputs_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex_inputs_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/indices.config" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/indices.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/log/idea.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/log/idea.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/port" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/tmp/jna8340760890727966788.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/tmp/jna8340760890727966788.dll.x" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/token" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rq0k1UfSwhEUoicC0E31iLsFgR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="371" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin/clean_code/action" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Coding\JavaProjects\bloc_clean_code\src\main\kotlin\clean_code\action" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Plugin">
+    <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="bloc_clean_code [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.bloc_clean_code [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5596ece9-40aa-4c08-a917-fff489677926" name="Default Changelist" comment="" />
+      <created>1619688452203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619688452203</updated>
+      <workItem from="1619688454162" duration="5696000" />
+      <workItem from="1619841569460" duration="2841000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

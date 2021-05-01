@@ -1,0 +1,21 @@
+<idea-plugin>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="203.7148" until-build="203.*"/>
+  <id>org.simorgh.bloc_clean_code</id>
+  <name>CleanCodeForBloc</name>
+  <vendor email="support@simorgh-web-service.com" url="http://www.simorgh-web-service.com">simorgh</vendor>
+  <version>1.0-SNAPSHOT</version>
+  <description>
+    This plugin is used to make clean code for flutter bloc
+    </description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <group class="clean_code.action.ActionGroup" id="CleanCodeForBloc.MakeCleanCode.ActionGroup" text="Bloc Clean Code" popup="true">
+      <add-to-group anchor="after" group-id="NewGroup" relative-to-action="NewDir"/>
+      <action class="clean_code.action.ActionGenerateCleanCode" id="clean_code.action.ActionGenerateCleanCode" text="Clean Code"/>
+    </group>
+  </actions>
+</idea-plugin>
