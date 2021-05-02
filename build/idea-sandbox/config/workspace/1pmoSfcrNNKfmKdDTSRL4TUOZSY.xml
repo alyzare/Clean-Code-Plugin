@@ -9,6 +9,7 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -21,17 +22,43 @@
               <item name="AlgorithmDesign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AlgorithmDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+              <item name="presentation" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ToolWindowManager">
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29325512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3020528" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Commit" order="3" />

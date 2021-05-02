@@ -17,7 +17,8 @@ interface Generator {
             project: Project,
             folder: VirtualFile,
             parent: String,
-            vararg children: String
+            moduleName: String?,
+            vararg children: Array<String>
         ): Map<String, VirtualFile>? {
             try {
                 for (child in folder.children) {
@@ -29,8 +30,9 @@ interface Generator {
                 val mapOfFolder = mutableMapOf<String, VirtualFile>()
                 mapOfFolder[parent] = folder.createChildDirectory(folder, parent)
                 for (child in children) {
-                    mapOfFolder[child] =
-                        mapOfFolder[parent]?.createChildDirectory(mapOfFolder[parent], child) ?: throw IOException()
+                    mapOfFolder[child[0]] =
+                        mapOfFolder[parent]?.createChildDirectory(mapOfFolder[parent], child[0]) ?: throw IOException()
+
                 }
                 return mapOfFolder
             } catch (e: IOException) {
