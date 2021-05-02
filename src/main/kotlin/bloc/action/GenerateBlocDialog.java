@@ -1,4 +1,4 @@
-package clean_code.action;
+package bloc.action;
 
 import com.intellij.openapi.ui.DialogWrapper;
 import org.jetbrains.annotations.Nullable;

@@ -13,18 +13,16 @@ import javax.swing.JTextField
 class FeatureDialog(project: Project?) :
     DialogWrapper(project) {
     private var contentPanel: JPanel? = null
-    private var nameTextField: JTextField? = null
-    private var splitDataSource: JCheckBox? = null
+    private var blocNameTextField: JTextField? = null
 
     /**
     * @return feature name
     */
-    fun getName(): String? = nameTextField?.text
+    fun getName(): String? = blocNameTextField?.text
 
     /**
     * @return split data sources
     */
-    fun splitSource(): Boolean? = splitDataSource?.isSelected
 
     override fun createCenterPanel(): JComponent? {
         return contentPanel
@@ -34,7 +32,7 @@ class FeatureDialog(project: Project?) :
     * Sets focus on the text field
     */
     override fun getPreferredFocusedComponent(): JComponent? {
-        return nameTextField
+        return blocNameTextField
     }
 
     init {

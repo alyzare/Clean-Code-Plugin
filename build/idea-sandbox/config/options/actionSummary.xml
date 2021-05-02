@@ -1,13 +1,28 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Delete">
-      <i c="2" l="1619844145162" />
+      <i c="6" l="1619932706918" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1619868616125" />
+    </e>
+    <e n="ShowPopupMenu">
+      <i c="1" l="1619844772271" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="5" l="1619869901843" />
+    </e>
+    <e n="Tree-selectParent">
+      <i c="3" l="1619869900060" />
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1619691240462" />
     </e>
+    <e n="com.intellij.openapi.actionSystem.impl.ChameleonAction">
+      <i c="1" l="1619868624345" />
+    </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="2" l="1619844145566" />
+      <i c="5" l="1619932707699" />
     </e>
   </component>
 </application>

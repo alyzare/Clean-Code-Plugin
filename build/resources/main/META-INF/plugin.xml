@@ -13,9 +13,9 @@
   <depends>com.intellij.modules.platform</depends>
   <extensions defaultExtensionNs="com.intellij"/>
   <actions>
-    <group class="clean_code.action.ActionGroup" id="CleanCodeForBloc.MakeCleanCode.ActionGroup" text="Bloc Clean Code" popup="true">
+    <group class="clean_code.action.ActionGroup" id="CleanCodeForBloc.MakeCleanCode.ActionGroup" text="Clean Code" popup="true">
       <add-to-group anchor="after" group-id="NewGroup" relative-to-action="NewDir"/>
-      <action class="clean_code.action.ActionGenerateCleanCode" id="clean_code.action.ActionGenerateCleanCode" text="Clean Code"/>
+      <action class="clean_code.action.ActionGenerateCleanCode" id="clean_code.action.ActionGenerateCleanCode" text="Generate"/>
     </group>
   </actions>
 </idea-plugin>

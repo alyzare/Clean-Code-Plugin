@@ -16,22 +16,20 @@
     </extensions>
 
     <actions>
+
         <group
                 class="clean_code.action.ActionGroup"
                 id="CleanCodeForBloc.MakeCleanCode.ActionGroup"
-                text="Bloc Clean Code"
-                popup="true"
-        >
+                text="Clean Code"
+                popup="true">
             <add-to-group
                     anchor="after"
                     group-id="NewGroup"
-                    relative-to-action="NewDir"
-            />
+                    relative-to-action="NewDir"/>
             <action
                     class="clean_code.action.ActionGenerateCleanCode"
                     id="clean_code.action.ActionGenerateCleanCode"
-                    text="Clean Code"
-            />
+                    text="Generate"/>
         </group>
     </actions>
 </idea-plugin>
