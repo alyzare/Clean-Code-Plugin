@@ -26,15 +26,15 @@ class ActionGenerateCleanCode : AnAction() {
         WriteCommandAction.runWriteCommandAction(project) {
             if (root != null && root.isNotBlank()) {
                 val result = Generator.createFolder(
-                    project, folder, root,root
+                    project, folder, root
                 ) ?: return@runWriteCommandAction
                 folder = result[root]
             }
             Generator.createFolder(
                 project, folder,
                 "data",
-                root,
-                arr1, arr2, arr3
+                arr1,
+                arr2, arr3
             )
         }
         arr1= arrayOf("repositories","${root}_repository.dart")
@@ -43,8 +43,8 @@ class ActionGenerateCleanCode : AnAction() {
         Generator.createFolder(
             project, folder,
             "domain",
-            root,
-            arr1, arr2, arr3
+            arr1,
+            arr2, arr3
         )
         arr1= arrayOf("view_model","${root}_view_model.dart","${root}_state.dart")
         arr2= arrayOf("pages","${root}_page.dart")
@@ -52,8 +52,8 @@ class ActionGenerateCleanCode : AnAction() {
         Generator.createFolder(
             project, folder,
             "presentation",
-            root,
-            arr1, arr2, arr3
+            arr1,
+            arr2, arr3
         )
     }
 }

@@ -10,25 +10,60 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main-instrumented/clean_code/action/ActionGenerateCleanCode$generate$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main-instrumented/clean_code/action/ActionGenerateCleanCode$generate$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main-instrumented/clean_code/action/ActionGenerateCleanCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main-instrumented/clean_code/action/ActionGenerateCleanCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main-instrumented/generator/Generator$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main-instrumented/generator/Generator$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/action/ActionGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/action/ActionGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/action/GenerateCubitAction$generate$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/action/GenerateCubitAction$generate$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/action/GenerateCubitAction$generate$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/action/GenerateCubitAction$generate$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/action/GenerateCubitAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/action/GenerateCubitAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/BlocGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/BlocGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/BlocGeneratorFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/BlocGeneratorFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/CubitGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/CubitGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/CubitGeneratorFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/CubitGeneratorFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/components/BlocEventGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/components/BlocEventGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/components/BlocGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/components/BlocGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/components/BlocStateGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/components/BlocStateGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/components/CubitGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/components/CubitGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/components/CubitStateGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/generator/components/CubitStateGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/intention_action/WrapHelper$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/intention_action/WrapHelper$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/intention_action/WrapHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/bloc/intention_action/WrapHelper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/clean_code/action/ActionGenerateCleanCode$generate$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/clean_code/action/ActionGenerateCleanCode$generate$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/clean_code/action/ActionGenerateCleanCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/clean_code/action/ActionGenerateCleanCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/clean_code/action/ActionGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/clean_code/action/ActionGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/generator/Generator$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/generator/Generator$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/generator/Generator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/generator/Generator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/ui/FeatureDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/ui/FeatureDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/ui/Notifier$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/ui/Notifier$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/ui/Notifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/ui/Notifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/config/options/actionSummary.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/config/options/actionSummary.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/config/options/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/config/options/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/config/workspace/1pmoSfcrNNKfmKdDTSRL4TUOZSY.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/config/workspace/1pmoSfcrNNKfmKdDTSRL4TUOZSY.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/plugins/bloc_clean_code/lib/bloc_clean_code-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/plugins/bloc_clean_code/lib/bloc_clean_code-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/plugins/pluginsXMLIds.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/plugins/pluginsXMLIds.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/plugins/pluginsXMLIds.json.etag" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/plugins/pluginsXMLIds.json.etag" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/.appinfo" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/.appinfo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/.pid" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/.pid" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/LocalHistory/changes.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/LocalHistory/changes.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/LocalHistory/changes.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/LocalHistory/changes.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/attrib.dat.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/attrib.dat.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/attrib.dat.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/attrib.dat.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/content.dat.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/content.dat.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/content.dat.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/content.dat.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/contentHashes.dat_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat.keystream.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/names.dat_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/caches/records.dat" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/caches/records.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/compile-server/algorithmdesign_2caa33c3/ustamp" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/compile-server/algorithmdesign_2caa33c3/ustamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/icons-v2.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/icons-v2.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.project" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.project.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filenameindex/FilenameIndex.project.len" afterDir="false" />
@@ -47,8 +82,11 @@
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filetypes/filetypes_inputs.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filetypes/filetypes_inputs.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/index/filetypes/filetypes_inputs_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/index/filetypes/filetypes_inputs_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/log/idea.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/idea-sandbox/system/log/idea.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/tmp/jna17038253984706994360.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/tmp/jna17038253984706994360.dll.x" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/log/indexing-diagnostic/algorithmdesign.12b8b267/diagnostic-2021-04-29-15-32-02.602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/log/indexing-diagnostic/algorithmdesign.12b8b267/diagnostic-2021-04-29-15-43-59.866.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/log/indexing-diagnostic/algorithmdesign.12b8b267/diagnostic-2021-04-29-15-45-08.711.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/tmp/jna8753306384132390329.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/idea-sandbox/system/tmp/jna8753306384132390329.dll.x" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
@@ -75,12 +113,12 @@
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/libs/bloc_clean_code-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/bloc_clean_code-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/patchedPluginXmlFiles/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/patchedPluginXmlFiles/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/META-INF/plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/clean_code/action/ActionGenerateCleanCode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/clean_code/action/ActionGenerateCleanCode.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/generator/Generator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/generator/Generator.kt" afterDir="false" />
     </list>
@@ -121,6 +159,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -131,6 +170,10 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -145,6 +188,17 @@
     </key>
   </component>
   <component name="RunManager" selected="Gradle.Plugin">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -204,7 +258,8 @@
       <workItem from="1619688454162" duration="5696000" />
       <workItem from="1619841569460" duration="7275000" />
       <workItem from="1619866001619" duration="3648000" />
-      <workItem from="1619932431072" duration="10483000" />
+      <workItem from="1619932431072" duration="10854000" />
+      <workItem from="1620187783759" duration="4840000" />
     </task>
     <servers />
   </component>

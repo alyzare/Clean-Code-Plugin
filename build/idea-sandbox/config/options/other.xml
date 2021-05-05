@@ -15,13 +15,13 @@
     <property name="ide.memory.adjusted" value="true" />
     <property name="ide.updates.previous.build.number" value="IC-203.7148.57" />
     <property name="installed.kotlin.plugin.version" value="203-1.4.10-release-IJ7148.5" />
-    <property name="lastSeenTip" value="neue-LineEndingsFolder.html" />
-    <property name="lastTimeTipsWereShown" value="1619932480336" />
+    <property name="lastSeenTip" value="neue-FindInPath.html" />
+    <property name="lastTimeTipsWereShown" value="1620190231953" />
     <property name="last_opened_file_path" value="C:/Coding/JavaProjects/AlgorithmDesign" />
     <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
     <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
     <property name="packagesearch.status.updated.ts" value="1619691248457" />
-    <property name="seenTips" value="neue-SearchForGit.html,neue-CheckRegExp.html,neue-LineEndingsFolder.html" />
+    <property name="seenTips" value="neue-LineEndingsFolder.html,neue-CheckRegExp.html,neue-SearchForGit.html,neue-FindInPath.html" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
   </component>
 </application>

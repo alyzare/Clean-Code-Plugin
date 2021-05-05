@@ -2,7 +2,6 @@
   <change-notes>
       Add change notes here.&lt;br&gt;
       &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
-  <idea-version since-build="203.7148" until-build="203.*"/>
   <id>org.simorgh.bloc_clean_code</id>
   <name>CleanCodeForBloc</name>
   <vendor email="support@simorgh-web-service.com" url="http://www.simorgh-web-service.com">simorgh</vendor>

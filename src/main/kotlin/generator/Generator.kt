@@ -17,7 +17,6 @@ interface Generator {
             project: Project,
             folder: VirtualFile,
             parent: String,
-            moduleName: String?,
             vararg children: Array<String>
         ): Map<String, VirtualFile>? {
             try {
@@ -32,7 +31,9 @@ interface Generator {
                 for (child in children) {
                     mapOfFolder[child[0]] =
                         mapOfFolder[parent]?.createChildDirectory(mapOfFolder[parent], child[0]) ?: throw IOException()
-
+                    for(i in 1 until child.size)
+                        mapOfFolder[child[i]] =
+                            mapOfFolder[child[0]]?.createChildData(mapOfFolder[child[0]],child[i])?:throw IOException()
                 }
                 return mapOfFolder
             } catch (e: IOException) {
